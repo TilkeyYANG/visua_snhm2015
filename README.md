@@ -1,15 +1,14 @@
-#### visua_snhm2015
-Visualization - Gender and salary 2015 France
+## Visualization - Gender and salary 2015 France
 
 
-##Project Description
+#### Project Description
 
 I used Python and Indesign to create a visualization of "the relationship between gender and salary".
 Taking Rouen as an example, I analyze the difference in salary between men and women in France.
 
 
 
-##Library dependence
+#### Library dependence
 
 ```python
     import numpy as np
@@ -26,7 +25,7 @@ Taking Rouen as an example, I analyze the difference in salary between men and w
 
 
 
-##Deployment steps
+#### Deployment steps
 
  * You can download the .zip and run .py, personnally I use Spyder. Sometimes you may change your working directory:
 
@@ -44,13 +43,13 @@ Taking Rouen as an example, I analyze the difference in salary between men and w
  
 
 
-##Version
+#### Version
 
 2018/11/11
 
 
 
-##Reference
+#### Reference
 
 < Data Base >
 
