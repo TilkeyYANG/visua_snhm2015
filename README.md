@@ -55,7 +55,7 @@ Taking Rouen as an example, I analyze the difference in salary between men and w
 < Data Base >
 
 Insee (2018) 
-Salaire net horaire moyen selon la catégorie socioprofessionnelle, le sexe et l'?ge en 2015
+Salaire net horaire moyen selon la catégorie socioprofessionnelle, le sexe et l'âge en 2015
  
 < Region Map >
 
